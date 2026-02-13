@@ -1,0 +1,5 @@
+com/example/namemap/entity/NameMap.class
+com/example/namemap/controller/NameMapController.class
+com/example/namemap/repository/NameMapRepository.class
+com/example/namemap/NameMapApplication.class
+com/example/namemap/service/NameMapService.class
