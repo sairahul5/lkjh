@@ -6,6 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
+@Table(name = "namemap")
 public class NameMap {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
